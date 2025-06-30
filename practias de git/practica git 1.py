@@ -1,0 +1,21 @@
+# Mi Primera Práctica de Git
+
+**Autora**: Alicia Rodriguez  
+**Año**: 2025
+
+---
+
+## Descripción
+
+Este repositorio contiene mi primera práctica utilizando Git. Aquí documentaré los pasos básicos que aprendí y las acciones realizadas durante el proceso.
+
+## Contenido
+
+- `README.md`: Este archivo, con información sobre el proyecto.
+- [Otros archivos, carpetas o scripts que agregues]
+
+## Instalación
+
+1. Clona el repositorio en tu máquina:
+   ```bash
+   git clone https://github.com/tu_usuario/mi-practica-git.git
